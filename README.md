@@ -7,7 +7,7 @@ Credit: The code is built on the package "[Free-Support-Barycenters](https://git
 
 ```
 git clone git@github.com:GangLii/TAB.git
-pip install POT numpy scipy matplotlib sklearn
+pip install POT pandas numpy scipy matplotlib scikit-learn
 ```
 
 ### Examples 
